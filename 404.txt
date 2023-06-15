@@ -1,0 +1,15 @@
+Trying to improve this, got any ideas? 
+It's an error message for a program.
+It is supposed to be like a frowny/sad face.
+
+***************************
+*           HAL           *
+*   Feature Not Enabled   *
+*                         *
+*       /- \  / -\        *
+*       \__/  \__/        *
+*         'O  O'          *
+*      'O        O'       *
+*    'O             O'    *
+*                         *
+***************************

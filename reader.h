@@ -1,0 +1,1 @@
+std::string_view home_s {"Console Reader"};

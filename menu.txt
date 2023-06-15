@@ -1,0 +1,9 @@
+********************
+*  Console Reader  *
+*                  *
+* Select an Option *
+*                  *
+*    (1) read      *
+*    (2) play      *
+*    (3) options   *
+********************

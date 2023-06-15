@@ -1,0 +1,17 @@
+AWI Battle Date and Short Description Program For Braydon
+
+Battle-----Battle Year
+Battle Facts:
+
+Have Interface, selecet what to learn, play a game
+if click rev war, list battles with dates and under it Facts
+
+print message and or animation
+print selection 
+wait for selection command
+once selected war, print info
+once selected game, run game
+once type exit, close program
+
+make a template for printing info in specfic manner. 
+Pull info from text document, do it like the employees, or use like sqllite
